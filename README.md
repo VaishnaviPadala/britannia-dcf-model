@@ -4,6 +4,19 @@ An Excel model of Britannia Industries Ltd: an integrated three-statement foreca
 
 **File:** `Britannia_3Statement_DCF_Model.xlsx`
 
+
+## Preview (no download needed)
+A 3-page PDF of the key sheets is in this repo: [Britannia_Model_Summary.pdf](Britannia_Model_Summary.pdf).
+
+**Summary sheet: key outputs, valuation range and integrity checks**
+![Summary](images/1-summary.png)
+
+**DCF sheet: WACC, 10-year free cash flow, terminal value, equity bridge and reverse DCF**
+![DCF](images/2-dcf.png)
+
+**Sensitivity sheet: value per share across WACC and terminal growth**
+![Sensitivity](images/3-sensitivity.png)
+
 ## Sheets
 | Sheet | What it does |
 |---|---|
